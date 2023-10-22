@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: "Poppins", sans-serif;
+    font-family: "Arial", sans-serif;
 }
 
 a {
@@ -17,9 +17,7 @@ a {
     color: whitesmoke;
 }
 
-h1,
-h2,
-p {
+h1, h2, p {
 
     margin: 1.6rem 0;
 }
@@ -224,9 +222,7 @@ input::placeholder {
 }
 
 
-.box1,
-.box2,
-.box3 {
+.box1, .box2, .box3 {
     padding: 1.8rem;
 }
 
@@ -292,7 +288,7 @@ input::placeholder {
     resize: none;
     color: #ccc;
     margin: 1.2rem 0;
-    font-family: "Poppins", sans-serif;
+    font-family: "Arial", sans-serif;
 }
 
 /* Footer */
