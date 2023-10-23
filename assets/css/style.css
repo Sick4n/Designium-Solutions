@@ -5,6 +5,11 @@
     font-size: 62.5%;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 body {
     font-family: "Roboto", sans-serif;
 }
@@ -143,9 +148,6 @@ input::placeholder {
     flex-basis: 30%;
     padding: 1.6rem;
 }
-.about img {
-    width: 100%;
-}
 
 .btn {
 
@@ -160,20 +162,20 @@ input::placeholder {
     text-transform: uppercase;
 }
 
-.about2 {
+.offer {
     background-color: #222;
     color: whitesmoke;
 }
 
-.about2-left {
+.offer-left {
     flex-basis: 50%;
 }
 
-.about2-right {
+.offer-right {
     flex-basis: 30%;
 }
 
-.about2 .card {
+.offer .card {
     padding: 3rem 8rem;
     color: #222;
     background-color: #DCDCDC;

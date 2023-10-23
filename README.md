@@ -35,7 +35,7 @@ Web design is the visual face of the online world. Your site supports businesses
 * Navigation would clearly tell the one what the name is on the site, and where u can click to. To come faster to the section you are searching for.
 
 ---
-![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165706527471058944/Skarmbild_2023-10-22_194107.png?ex=6547d3cd&is=65355ecd&hm=166b1d985e5808fcd5aa027379b735082b823d93e7b6abecdcea7c9db251b7a2&)
+![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165869361605644339/image.png?ex=65486b74&is=6535f674&hm=d27254ccd123aaa174cba74ba41fbffcfe96b415bdeef8520ef279837761d07a&)
 
 # header
 
@@ -66,18 +66,18 @@ Web design is the visual face of the online world. Your site supports businesses
 # Offer
 
 * In the Offer section you see a gray background with text and 4 icons.
-* you can also see that icon has the color green and the text is white.
+* you can also see that icon has the color blue and the text is white.
 * The text is about what we offer.
 
-![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165766280779943967/Skarmbild_2023-10-22_233339.png?ex=65480b74&is=65359674&hm=ac9c3417ca7f9fb13e454b1ff8a22c78bdcbb45a125cf660d795a37480cf56d8&)
+![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165869699133870161/Skarmbild_2023-10-23_062914.png?ex=65486bc5&is=6535f6c5&hm=730fc9b1dd2440296b91161a24fd290a1ad7906ec4eaa85ceb83a199b1a95c6e&)
 
 # Process
 
 * In the Process section you find information the path we do
 * our path way is design, host, secure overtime.
-* You can also see the following desing with the green and black theme.
+* You can also see the following desing with the blue and black theme.
 
-![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165766281090314360/Skarmbild_2023-10-22_233350.png?ex=65480b74&is=65359674&hm=5612dd68c09d58a02b6802064ffe3fcd1b2abcfa13647ebdded8240f827c8ff2&)
+![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165869699473621082/Skarmbild_2023-10-23_062925.png?ex=65486bc5&is=6535f6c5&hm=88f2015d3bebc6f1ec6576650f2d00dc941109a6367c134cec7d1aac24adb44b&)
 
 # Reviews
 
@@ -91,9 +91,9 @@ Web design is the visual face of the online world. Your site supports businesses
 
 * Contact section you will see a white background.
 * You will also see the a name,email and enter your message section. that we want you to use. to get in contact with us
-* You can also see a big red button.
+* You can also see a big blue button. With the text send
 
-![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165766281648164994/Skarmbild_2023-10-22_233410.png?ex=65480b74&is=65359674&hm=43679f099f7de8fdae00c73f0cd8d0f9d83c677b9f6c54b5a7c1671eb55efe98&)
+![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165869699729465414/Skarmbild_2023-10-23_062932.png?ex=65486bc5&is=6535f6c5&hm=caf9db4bf3afbfb7fc7ae11b7bd6ec5da87021ed92bfd083a42d4daba724cb35&)
 
 # The footer
 
@@ -108,7 +108,7 @@ Web design is the visual face of the online world. Your site supports businesses
 
 * I tested so the site & pages are working on diffrent browsers. Opera, Firefox, Chrome & DuckDuckGo.
 * And I can also confirm that the site is responsive on all standard screen sizes using DEVTOOLS DEVICE TOOLBAR.
-* The navigation and the meny is all readable with the white structure and black / green text makes it all easy to understand.
+* The navigation and the meny is all readable with the white structure and black / blue text makes it all easy to understand.
 * I have confirmed that the sites form working, only email is accepting.
 
 # Bugs
@@ -128,4 +128,26 @@ Web design is the visual face of the online world. Your site supports businesses
 
 ## Accessibility
 
-* 
+*  I confirmed so everything is readable, trough Lighthouse in Devtools
+
+![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165868548510453760/image.png?ex=65486ab2&is=6535f5b2&hm=13410fa7d1f4e42cbc1bc7477461bb9facf19f7ddb9ee2ab279ea83c0d78a880&)
+
+# Unfixed Bugs.
+
+* I have fixed everyone I know about.
+
+# Deployment
+
+* The site was deployed on GitHub.
+* Iv'e been going trough diffrent working benches like VScode, notepad, sublime and Codeanywhere.
+
+
+The link can be find here:[Designium Solutions](https://sick4n.github.io/Mr.designanum/).
+
+# Credits
+
+## pictures
+
+* All pictures has been taken from Pexels,Pixabay & Unsplash
+
+Also credits to everyone who helped me with this, it was hard since i had 20 other projects in the same time but one thing in a time is enough.
