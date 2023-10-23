@@ -1,18 +1,22 @@
 # Designium Solutions
 
 ## Designium Solutions
----
-is a versatile online platform that focuses on three core areas: server hosting, IT security, and web design. It serves as an information hub and resource center for individuals and businesses looking to navigate and excel in the digital landscape. Whether users are seeking hosting solutions, IT security insights, or web design guidance, your site provides the knowledge and tools they need to succeed. In essence, it is a multi-faceted digital resource designed to empower and support those with interests and needs related to server hosting, IT security, and web design.
 
-## IT Security:
 ---
- is paramount in the digital age, and your website is committed to educating users on the latest threats and best practices. From articles about cybersecurity trends to practical tips on securing networks and data, your site empowers users to protect their digital assets. It may also offer tools or services that can help assess and enhance the security of their systems.
+Is a versatile online platform that focuses on three core areas: server hosting, IT security, and web design. It serves as an information hub and resource center for individuals and businesses looking to navigate and excel in the digital landscape. Whether users are seeking hosting solutions, IT security insights, or web design guidance, your site provides the knowledge and tools they need to succeed. In essence, it is a multi-faceted digital resource designed to empower and support those with interests and needs related to server hosting, IT security, and web design.
 
-## Web Design. 
+## IT Security
+
+---
+ Is paramount in the digital age, and your website is committed to educating users on the latest threats and best practices. From articles about cybersecurity trends to practical tips on securing networks and data, your site empowers users to protect their digital assets. It may also offer tools or services that can help assess and enhance the security of their systems.
+
+## Web Design
+
 ---
 Web design is the visual face of the online world. Your site supports businesses and individuals in creating appealing, functional, and user-friendly websites. Whether it's through tutorials, design inspiration, or even web design services, your site is a hub for those looking to make a positive online impression and enhance the user experience.
 
 ## Server Hosting
+
 ---
  In the realm of server hosting, your website offers a wealth of knowledge and services. Whether it's choosing the right hosting plan, optimizing server performance, or troubleshooting common issues, your site is a go-to resource. It's a place where businesses can find reliable, scalable solutions for hosting their websites and applications, ensuring they remain accessible and responsive.
 
@@ -45,7 +49,7 @@ Web design is the visual face of the online world. Your site supports businesses
 
 # The About Us Section
 
-  ##  Service offering
+## Service offering
 
 * The company offers a holistic approach to web services that seamlessly combines three key areas: web design, security, and hosting. These services are presented as a cohesive, client-centric package.
 
@@ -67,7 +71,7 @@ Web design is the visual face of the online world. Your site supports businesses
 
 ![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165766280779943967/Skarmbild_2023-10-22_233339.png?ex=65480b74&is=65359674&hm=ac9c3417ca7f9fb13e454b1ff8a22c78bdcbb45a125cf660d795a37480cf56d8&)
 
-# Process 
+# Process
 
 * In the Process section you find information the path we do
 * our path way is design, host, secure overtime.
@@ -99,3 +103,29 @@ Web design is the visual face of the online world. Your site supports businesses
 ![my](https://media.discordapp.net/attachments/920805983603814513/1165766281887232050/Skarmbild_2023-10-22_233419.png?ex=65480b74&is=65359674&hm=936b93a2397506e840ef4d4fe492dcc72657c2c20a70c059e7da79a8be577808&=&width=1058&height=46)
 
 ---
+
+# Testing
+
+* I tested so the site & pages are working on diffrent browsers. Opera, Firefox, Chrome & DuckDuckGo.
+* And I can also confirm that the site is responsive on all standard screen sizes using DEVTOOLS DEVICE TOOLBAR.
+* The navigation and the meny is all readable with the white structure and black / green text makes it all easy to understand.
+* I have confirmed that the sites form working, only email is accepting.
+
+# Bugs
+
+* when I deployed my project on GITHUB I saw that my images didnt load, this is how it first looked **/assets/images/blala.jpg** and what I did was that I changed the first with adding ### so it looked like this **./assets/images/blala.jpg**.
+* Second one was to many unnecessary SE/Meta tags, that was unrelative for the site and didnt fill any purpose.
+
+# Validator Testing
+
+## HTML
+  
+* No errors were returned when passing trough **W3C Validator**
+
+## CSS
+
+* No error were found when running the **css** code  through **(JIGSAW)   CSS validator**
+
+## Accessibility
+
+* 
