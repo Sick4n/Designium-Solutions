@@ -149,5 +149,10 @@ The link can be find here:[Designium Solutions](https://sick4n.github.io/Mr.desi
 ## pictures
 
 * All pictures has been taken from Pexels,Pixabay & Unsplash
+* The Form dump is taken from love running project by Code Institute, I could put and mail. but for that I need a PhP, and a database.
 
-Also credits to everyone who helped me with this, it was hard since i had 20 other projects in the same time but one thing in a time is enough.
+  ## Tips and tricks.
+
+  * Tips & Tricks are take from Greatstack and Kevin Powell
+
+Also credits to everyone who helped me with this, it was hard since i had other things in the same time but one thing in a time is enough.
