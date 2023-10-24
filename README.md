@@ -161,4 +161,8 @@ Also credits to everyone who helped me with this, it was hard since i had other 
 # Other information
 
 * Since this is my first project and my first site, I think it's hard atleast for me. since I have ADHD it can be hard with the concentrating, and your focus always ends on something else. What I did to make something usefull with this.
-I played some games like [CssBattle](https://cssbattle.dev´) & [Flexbox Froggy](https://flexboxfroggy.com/). And I found them more useful then watching a video since it can get boring overtime.  
+I played some games like [CssBattle](https://cssbattle.dev´) & [Flexbox Froggy](https://flexboxfroggy.com/). And I found them more useful then watching a video since it can get boring overtime.
+
+* Be aware aswell that I ive been working in other programs than this for this project like Sublime and Virtual studio code. So I submitted here when the project was done.
+
+## Further information conctact: DesigniumSolutions@protonmail.com.
