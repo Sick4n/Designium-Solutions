@@ -142,7 +142,7 @@ Web design is the visual face of the online world. Your site supports businesses
 * Iv'e been going trough diffrent working benches like VScode, notepad, sublime and Codeanywhere.
 
 
-The link can be find here:[Designium Solutions](https://sick4n.github.io/Mr.designanum/).
+The link can be find here:[Designium Solutions](https://sick4n.github.io/Designium-Solutions/).
 
 # Credits
 
