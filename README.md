@@ -20,7 +20,7 @@ Web design is the visual face of the online world. Your site supports businesses
 ---
  In the realm of server hosting, your website offers a wealth of knowledge and services. Whether it's choosing the right hosting plan, optimizing server performance, or troubleshooting common issues, your site is a go-to resource. It's a place where businesses can find reliable, scalable solutions for hosting their websites and applications, ensuring they remain accessible and responsive.
 
-![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165702930217840760/Skarmbild_2023-10-22_192702.png?ex=6547d074&is=65355b74&hm=3fdf482e52c00244b04f430242db4324da639f983bb9efc43e7df21dfd7219fc&)
+![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165702930217840760/Skarmbild_2023-10-22_192702.png?ex=66b99d34&is=66b84bb4&hm=7a0bf9908c8189b7e501ed383c97ec31b3d8ee9ec545ef285f9bc76f68c4e93e&)
 
 # Features
 
