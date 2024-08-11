@@ -35,7 +35,7 @@ Web design is the visual face of the online world. Your site supports businesses
 * Navigation would clearly tell the one what the name is on the site, and where u can click to. To come faster to the section you are searching for.
 
 ---
-![alt]([https://cdn.discordapp.com/attachments/920805983603814513/1165869361605644339/image.png?ex=65486b74&is=6535f674&hm=d27254ccd123aaa174cba74ba41fbffcfe96b415bdeef8520ef279837761d07a&](https://media.discordapp.net/attachments/920805983603814513/1165706527471058944/Skarmbild_2023-10-22_194107.png?ex=66b9a08d&is=66b84f0d&hm=c65e2f94b539c645b32122029e8faf6be3af2766a6470b589fcc27fb60bc8a18&=&format=webp&quality=lossless&width=1056&height=54))
+![alt](https://cdn.discordapp.com/attachments/920805983603814513/1165706527471058944/Skarmbild_2023-10-22_194107.png?ex=66b9a08d&is=66b84f0d&hm=c65e2f94b539c645b32122029e8faf6be3af2766a6470b589fcc27fb60bc8a18&)
 
 # header
 
